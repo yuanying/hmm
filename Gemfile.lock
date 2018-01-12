@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gimei (0.2.0)
+    takarabako (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gimei
+  takarabako
+
+BUNDLED WITH
+   1.10.6

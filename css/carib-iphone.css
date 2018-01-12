@@ -1,0 +1,12 @@
+.container-liquid {
+  padding: 0;
+}
+.movie {
+  text-align: left;
+  width: 95%;
+  margin: auto;
+  color: red;
+}
+.movie img {
+  width: 100%;
+}

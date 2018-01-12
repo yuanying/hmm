@@ -1,0 +1,18 @@
+.container-liquid {
+  text-align: center;
+}
+.movie {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 10px;
+  box-sizing: border-box;
+  /*display: none;*/
+}
+
+.movie img {
+  width: 100%;
+}
+.movie .panel-heading {
+  padding: 0;
+}
